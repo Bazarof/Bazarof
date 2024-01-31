@@ -9,10 +9,10 @@
   <!--<a href="#">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>-->
-  <a href="https://www.linkedin.com/in/juan-jos%C3%A9-baza-2b321620b/">
+  <a href="https://www.linkedin.com/in/juan-jos%C3%A9-baza-2b321620b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/Baza_1546">
+  <a href="https://twitter.com/Baza_1546" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
