@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋! My name is Juan</h2>
+<h1 align="center">Hi 👋! My name is Juan</h1>
+<h2 align="center">About me</h2>
+<p align="center">My taste in coffee ☕ is the same as my taste in code, only the very best with just the right amount of sugar.</p>
 
 ###
 
