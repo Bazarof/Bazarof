@@ -46,7 +46,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bazarof/Bazarof/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+</picture>
 
 ###
 
